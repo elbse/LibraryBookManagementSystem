@@ -35,6 +35,14 @@ Encapsulates book properties and actions:
 
 ---
 
+## ▶ How to Run the Program
+1. Install Python (version 3 recommended).  
+2. Save the program
+3. Run the file using: `python app.py`.
+
+
 ## 
 
-#👤Charisse Priego
+## 👨‍💻 Charisse Priego
+
+*Submitted as a requirement for our first Laboratory Exam.*
